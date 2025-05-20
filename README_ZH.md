@@ -9,7 +9,7 @@
       <img src="assets/images/MiniMaxLogo-Light.png" width="60%" alt="MiniMax">
     </source>
   </picture>
-  <h1 style="text-align: center;">MiniMax 集成应用精选<h1>
+  <h1 style="text-align: center;">MiniMax 集成应用精选</h1>
   <p style="text-align: center; font-size: 16px;">探索这些集成了 MiniMax 多模态 API 的应用，了解文本、视觉和语音处理能力如何融入各种软件。访问 <a href="https://platform.minimaxi.com/" target="_blank">MiniMax 开放平台</a> 获取您的 API 密钥</p>
 </div>
 

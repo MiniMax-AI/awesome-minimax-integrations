@@ -9,7 +9,7 @@
       <img src="assets/images/MiniMaxLogo-Light.png" width="60%" alt="MiniMax">
     </source>
   </picture>
-  <h1 style="text-align: center;">Awesome MiniMax Integrations<h1>
+  <h1 style="text-align: center;">Awesome MiniMax Integrations</h1>
   <p style="text-align: center; font-size: 16px;">Explore these applications integrating MiniMax's multimodal API to see how text, vision, and speech processing capabilities are incorporated into various software. Head to the <a href="https://www.minimax.io/platform" target="_blank">MiniMax Open Platform</a> to get your API key</p>
 </div>
 
