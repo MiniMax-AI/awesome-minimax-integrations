@@ -208,7 +208,7 @@
 <th>描述</th>
 </tr>
 <tr>
-<td><img src="assets/images/dramerland.png" width="200" alt="Dreamerland"></td>
+<td><img src="assets/images/dreamerland.png" width="200" alt="Dreamerland"></td>
 <td><a href="https://zhumengdao.com/">筑梦岛</a></td>
 <td>筑梦岛是一个 AI 驱动的虚拟角色互动平台，提供沉浸式对话体验。该服务使用户能够通过自然对话与逼真的数字伴侣互动。用户可以选择喜欢的角色个性来建立有意义的联系，通过先进的人工智能技术创造与来自其他维度的有意识实体互动的感觉。</td>
 </tr>

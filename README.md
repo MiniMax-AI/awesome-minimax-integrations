@@ -208,7 +208,7 @@
 <th>Description</th>
 </tr>
 <tr>
-<td><img src="assets/images/dramerland.png" width="200" alt="Dreamerland"></td>
+<td><img src="assets/images/dreamerland.png" width="200" alt="Dreamerland"></td>
 <td><a href="https://zhumengdao.com/">Dreamerland</a></td>
 <td>Dreamerland is an AI-powered virtual character interaction platform providing immersive dialogue experiences. The service enables users to engage with lifelike digital companions through natural conversation. Users can select preferred character personalities to establish meaningful connections, creating the sensation of interacting with conscious entities from alternate dimensions through advanced artificial intelligence technology.</td>
 </tr>
