@@ -153,6 +153,11 @@
 <td><a href="https://tbox.alipay.com/community">Tbox</a></td>
 <td>Tbox is an AI platform leveraging advanced large model technology. It enables enterprises to rapidly build professional-grade intelligent agents tailored for diverse industry service scenarios. The platform aims to enhance user experience, facilitate intelligent decision-making, and significantly contribute to business growth through its AI capabilities.</td>
 </tr>
+<tr>
+<td><img src="assets/images/trae.png" width="200" alt="TRAE"></td>
+<td><a href="https://www.trae.ai/">TRAE</a></td>
+<td>TRAE is your 10x AI Engineer who can independently build software solutions. Built by Builder.io, it understands requirements, executes complex tasks, and delivers production-ready code for modern software development.</td>
+</tr>
 </table>
 
 # Creative Tools
