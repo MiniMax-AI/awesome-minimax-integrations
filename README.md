@@ -144,6 +144,11 @@
 <td>OpenRouter offers a unified interface for accessing a wide range of large language models (LLMs). The platform simplifies the process of finding the best models and prices for various prompts, providing developers with a centralized solution for integrating LLMs into their applications.</td>
 </tr>
 <tr>
+<td><img src="https://avatars.githubusercontent.com/u/249779568?v=4" width="200" alt="OfoxAI"></td>
+<td><a href="https://ofox.ai/">OfoxAI</a></td>
+<td>OfoxAI is a unified API gateway giving developers access to 100+ LLMs (GPT, Claude, Gemini, MiniMax, etc.) via a single OpenAI-compatible endpoint. It simplifies multi-model integration with one API key, built-in usage dashboard, and team billing management. No monthly fees, pay per token.</td>
+</tr>
+<tr>
 <td><img src="assets/images/bailian.png" width="200" alt="Bailian"></td>
 <td><a href="https://bailian.console.aliyun.com/">Bailian</a></td>
 <td>BaiLian offers multimodal large model capabilities powered by MCP technology. It supports API calls, enabling diverse applications across various scenarios, including speech, image processing, and text-to-image generation. This platform provides developers and enterprises with advanced AI functionalities for integration and innovation.</td>
