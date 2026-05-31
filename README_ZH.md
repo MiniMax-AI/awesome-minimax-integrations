@@ -144,6 +144,11 @@
 <td>OpenRouter 提供了一个统一的接口来访问各种大语言模型（LLMs）。该平台简化了为各种提示找到最佳模型和价格的过程，为开发者提供了将 LLMs 集成到其应用中的集中解决方案。</td>
 </tr>
 <tr>
+<td><img src="https://raw.githubusercontent.com/Ahoo-Wang/GodeX/main/design/assets/02-favicon/favicon-128x128.png" width="200" alt="GodeX"></td>
+<td><a href="https://github.com/Ahoo-Wang/GodeX">GodeX</a></td>
+<td>GodeX 是一个开源本地网关，让兼容 Codex 的客户端以 OpenAI Responses API 形态调用 MiniMax Chat Completions，并覆盖工具调用、流式响应、会话、兼容性诊断和请求追踪。</td>
+</tr>
+<tr>
 <td><img src="assets/images/bailian.png" width="200" alt="Bailian"></td>
 <td><a href="https://bailian.console.aliyun.com/">百炼</a></td>
 <td>百炼依托MCP技术提供多模态大模型能力。支持API调用，实现语音、图像处理及文生图等多场景应用，为开发者与企业提供可集成的前沿AI功能。</td>
