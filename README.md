@@ -158,6 +158,11 @@
 <td><a href="https://www.trae.ai/">TRAE</a></td>
 <td>TRAE is your 10x AI Engineer who can independently build software solutions. Built by Builder.io, it understands requirements, executes complex tasks, and delivers production-ready code for modern software development.</td>
 </tr>
+<tr>
+<td><img src="assets/images/minimax-vscode.png" width="200" alt="MiniMax VSCode Copilot"></td>
+<td><a href="https://marketplace.visualstudio.com/items?itemName=klarkxy.minimax-vscode-copilot">MiniMax VSCode Copilot</a></td>
+<td>Language model provider for GitHub Copilot in VS Code: use MiniMax M2.7 / M2.7-highspeed / M3 models for programming with a Token Plan API key. Features include usage dashboard, and MiniMax Web Search MCP integration for Agent Mode.</td>
+</tr>
 </table>
 
 # Creative Tools
