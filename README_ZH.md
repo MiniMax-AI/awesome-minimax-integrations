@@ -153,6 +153,11 @@
 <td><a href="https://tbox.alipay.com/community">百宝箱</a></td>
 <td>百宝箱是基于先进大模型技术的AI平台，赋能企业快速构建适配行业服务场景的专业级智能体。通过提升用户体验、辅助智能决策，显著推动业务增长。</td>
 </tr>
+<tr>
+<td><img src="assets/images/minimax-vscode.png" width="200" alt="MiniMax VSCode Copilot"></td>
+<td><a href="https://marketplace.visualstudio.com/items?itemName=klarkxy.minimax-vscode-copilot">MiniMax VSCode Copilot</a></td>
+<td>VS Code 中 GitHub Copilot 的语言模型提供程序：使用 Token Plan API 密钥调用 MiniMax M2.7 / M2.7-highspeed / M3 模型辅助编程。支持用量仪表盘以及 Agent 模式下的 MiniMax Web Search MCP 集成。</td>
+</tr>
 </table>
 
 # 创意工具
