@@ -158,6 +158,11 @@
 <td><a href="https://www.trae.ai/">TRAE</a></td>
 <td>TRAE is your 10x AI Engineer who can independently build software solutions. Built by Builder.io, it understands requirements, executes complex tasks, and delivers production-ready code for modern software development.</td>
 </tr>
+<tr>
+<td><img src="assets/images/llm-box.png" width="200" alt="llm-box"></td>
+<td><a href="https://github.com/alib8b8/llm-box">llm-box</a></td>
+<td>llm-box is a terminal-based AI workflow engine with YAML-driven pipelines. It supports 20+ LLM providers including MiniMax, DeepSeek, Qwen, GLM, and more. Features a TUI for interactive workflow management, local-first execution, and deterministic workflow results. Written in Go, single binary, no dependencies.</td>
+</tr>
 </table>
 
 # Creative Tools
