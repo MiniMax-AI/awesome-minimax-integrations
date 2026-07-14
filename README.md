@@ -158,6 +158,11 @@
 <td><a href="https://www.trae.ai/">TRAE</a></td>
 <td>TRAE is your 10x AI Engineer who can independently build software solutions. Built by Builder.io, it understands requirements, executes complex tasks, and delivers production-ready code for modern software development.</td>
 </tr>
+<tr>
+<td><img src="assets/images/agent-teams-ai.svg" width="200" alt="Agent Teams AI"></td>
+<td><a href="https://github.com/777genius/agent-teams-ai">Agent Teams AI</a></td>
+<td>Agent Teams AI is a free, open-source desktop app for orchestrating autonomous coding-agent teams. It supports MiniMax models alongside other coding agents, with task delegation, inter-agent messaging, a live Kanban board, and code review.</td>
+</tr>
 </table>
 
 # Creative Tools
