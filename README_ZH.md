@@ -153,6 +153,11 @@
 <td><a href="https://tbox.alipay.com/community">百宝箱</a></td>
 <td>百宝箱是基于先进大模型技术的AI平台，赋能企业快速构建适配行业服务场景的专业级智能体。通过提升用户体验、辅助智能决策，显著推动业务增长。</td>
 </tr>
+<tr>
+<td><img src="assets/images/agent-teams-ai.svg" width="200" alt="Agent Teams AI"></td>
+<td><a href="https://github.com/777genius/agent-teams-ai">Agent Teams AI</a></td>
+<td>Agent Teams AI 是一款免费开源的桌面应用，用于编排自主编程智能体团队。它支持 MiniMax 模型及其他编程智能体，并提供任务分派、智能体间消息、实时看板和代码审查功能。</td>
+</tr>
 </table>
 
 # 创意工具
