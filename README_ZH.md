@@ -153,6 +153,11 @@
 <td><a href="https://tbox.alipay.com/community">百宝箱</a></td>
 <td>百宝箱是基于先进大模型技术的AI平台，赋能企业快速构建适配行业服务场景的专业级智能体。通过提升用户体验、辅助智能决策，显著推动业务增长。</td>
 </tr>
+<tr>
+<td><img src="assets/images/rocketride.png" width="200" alt="RocketRide"></td>
+<td><a href="https://github.com/rocketride-org/rocketride-server">RocketRide</a></td>
+<td>RocketRide 是一个开源的 AI 工作流与智能体平台，原生支持 MiniMax API，可用于构建大语言模型流水线、智能体和 RAG 工作流。</td>
+</tr>
 </table>
 
 # 创意工具
