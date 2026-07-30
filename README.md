@@ -160,8 +160,8 @@
 </tr>
 <tr>
 <td><img src="assets/images/rocketride.png" width="200" alt="RocketRide"></td>
-<td><a href="https://github.com/rocketride-org/rocketride-server">RocketRide</a></td>
-<td>RocketRide is an open-source AI workflow and agent platform with native MiniMax API support for building LLM pipelines, agents, and RAG workflows.</td>
+<td><a href="https://cloud.rocketride.ai/">RocketRide</a></td>
+<td>RocketRide is a developer platform for building, deploying, and operating production AI systems, with native MiniMax API support.</td>
 </tr>
 </table>
 

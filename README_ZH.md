@@ -155,8 +155,8 @@
 </tr>
 <tr>
 <td><img src="assets/images/rocketride.png" width="200" alt="RocketRide"></td>
-<td><a href="https://github.com/rocketride-org/rocketride-server">RocketRide</a></td>
-<td>RocketRide 是一个开源的 AI 工作流与智能体平台，原生支持 MiniMax API，可用于构建大语言模型流水线、智能体和 RAG 工作流。</td>
+<td><a href="https://cloud.rocketride.ai/">RocketRide</a></td>
+<td>RocketRide 是一个面向开发者的平台，用于构建、部署和运行生产级 AI 系统，并原生支持 MiniMax API。</td>
 </tr>
 </table>
 
