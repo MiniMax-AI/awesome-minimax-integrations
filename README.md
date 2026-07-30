@@ -158,6 +158,11 @@
 <td><a href="https://www.trae.ai/">TRAE</a></td>
 <td>TRAE is your 10x AI Engineer who can independently build software solutions. Built by Builder.io, it understands requirements, executes complex tasks, and delivers production-ready code for modern software development.</td>
 </tr>
+<tr>
+<td><img src="assets/images/rocketride.png" width="200" alt="RocketRide"></td>
+<td><a href="https://cloud.rocketride.ai/">RocketRide</a></td>
+<td>RocketRide is a developer platform for building, deploying, and operating production AI systems, with native MiniMax API support.</td>
+</tr>
 </table>
 
 # Creative Tools
