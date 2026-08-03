@@ -108,6 +108,11 @@
 <td><a href="https://apps.apple.com/uy/app/key-ai-ai-keyboard-assistant/id6742742345">Key AI</a></td>
 <td>Key AI是一款能在用户手机上任何平台或应用中无缝使用的键盘扩展工具。它旨在帮助用户流畅沟通，无论是为留下出色的第一印象、打动约会对象，还是单纯希望活跃对话氛围，键言都能提供得体的表达建议。</td>
 </tr>
+<tr>
+<td><img src="assets/images/skales.png" width="200" alt="Skales"></td>
+<td><a href="https://skales.app/">Skales</a></td>
+<td>Skales 是一款本地优先的 AI 智能体，支持 Windows、macOS 和 Linux，并提供 iOS 和 Android 配套应用。它像普通应用一样安装，为模型提供 197 个内置工具，涵盖文件、浏览器控制、日历、邮件、媒体工作室和语音助手，界面支持 12 种语言。MiniMax 是 Skales 中的一等提供商，拥有独立的设置入口和调优配置，MiniMax 模型开箱即可在用户本机上完成实际工作。</td>
+</tr>
 </table>
 
 # 开发工具
