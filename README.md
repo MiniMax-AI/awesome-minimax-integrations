@@ -108,6 +108,11 @@
 <td><a href="https://apps.apple.com/uy/app/key-ai-ai-keyboard-assistant/id6742742345">Key AI</a></td>
 <td>Key AI is a keyboard extension app that works seamlessly on any platform or app on your phone. Key AI is designed to help you keep the conversation going, whether you're trying to make a great first impression, impress your date, or simply want to spice up a chat.</td>
 </tr>
+<tr>
+<td><img src="assets/images/skales.png" width="200" alt="Skales"></td>
+<td><a href="https://skales.app/">Skales</a></td>
+<td>Skales is a local-first AI agent for Windows, macOS and Linux with companion apps for iOS and Android. It installs like an ordinary application and gives the model 197 built-in tools covering files, browser control, calendar, mail, a media studio and a voice agent, in 12 interface languages. MiniMax is a first-class provider in Skales with its own settings entry and tuning profile, so MiniMax models can drive real work on the user's machine out of the box.</td>
+</tr>
 </table>
 
 # Developer Tools
