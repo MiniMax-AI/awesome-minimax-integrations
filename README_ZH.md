@@ -144,6 +144,11 @@
 <td>OpenRouter 提供了一个统一的接口来访问各种大语言模型（LLMs）。该平台简化了为各种提示找到最佳模型和价格的过程，为开发者提供了将 LLMs 集成到其应用中的集中解决方案。</td>
 </tr>
 <tr>
+<td><img src="https://raw.githubusercontent.com/sandbaseai/cli/main/.github/assets/sandbase-cli-hero.webp" width="200" alt="SandBase"></td>
+<td><a href="https://github.com/sandbaseai/cli">SandBase</a></td>
+<td>SandBase 是开源 CLI 与 MCP Bridge，可统一访问 2,000+ AI 模型和 API，其中包括 MiniMax 视频生成。它支持模型发现、结构化调用与异步任务轮询，适用于 Agent 工作流。</td>
+</tr>
+<tr>
 <td><img src="assets/images/bailian.png" width="200" alt="Bailian"></td>
 <td><a href="https://bailian.console.aliyun.com/">百炼</a></td>
 <td>百炼依托MCP技术提供多模态大模型能力。支持API调用，实现语音、图像处理及文生图等多场景应用，为开发者与企业提供可集成的前沿AI功能。</td>
