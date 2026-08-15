@@ -144,6 +144,11 @@
 <td>OpenRouter offers a unified interface for accessing a wide range of large language models (LLMs). The platform simplifies the process of finding the best models and prices for various prompts, providing developers with a centralized solution for integrating LLMs into their applications.</td>
 </tr>
 <tr>
+<td><img src="https://raw.githubusercontent.com/sandbaseai/cli/main/.github/assets/sandbase-cli-hero.webp" width="200" alt="SandBase"></td>
+<td><a href="https://github.com/sandbaseai/cli">SandBase</a></td>
+<td>SandBase is an open-source CLI and MCP bridge providing unified access to 2,000+ AI models and APIs, including MiniMax video generation. It supports model discovery, structured invocation, and asynchronous job polling for agent workflows.</td>
+</tr>
+<tr>
 <td><img src="assets/images/bailian.png" width="200" alt="Bailian"></td>
 <td><a href="https://bailian.console.aliyun.com/">Bailian</a></td>
 <td>BaiLian offers multimodal large model capabilities powered by MCP technology. It supports API calls, enabling diverse applications across various scenarios, including speech, image processing, and text-to-image generation. This platform provides developers and enterprises with advanced AI functionalities for integration and innovation.</td>
