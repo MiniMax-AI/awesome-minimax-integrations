@@ -248,6 +248,11 @@
 <td><a href="https://onestory.art/dashboard">Onestory</a></td>
 <td>Onestory是一款AI影视级内容生成平台，一键将文本/剧本转化为专业分镜与高清连续画面。通过先进AI简化复杂流程，赋能创作者以艺术化精度高效实现创意构想。</td>
 </tr>
+<tr>
+<td><img src="assets/images/NodeTool.png" width="200" alt="NodeTool"></td>
+<td><a href="https://nodetool.ai/">NodeTool</a></td>
+<td>NodeTool 是一个开源、以智能体为核心的创作工作台，支持 macOS、Windows 和 Linux。它的节点工作流和聊天智能体使用 MiniMax Hailuo 进行文生视频和图生视频，使用 image-01 生成图像，使用 Speech 2.6 制作配音，使用 Music 2.6 创作歌曲，并使用 MiniMax M 系列模型进行对话。</td>
+</tr>
 </table>
 
 # 教育
