@@ -253,6 +253,11 @@
 <td><a href="https://onestory.art/dashboard">Onestory</a></td>
 <td>OneStory is an AI-powered platform designed to streamline film-grade content creation. It transforms text or scripts into professional storyboards and high-quality, continuous visuals with a single click. The platform leverages advanced AI to simplify complex processes, empowering creators to realize their imaginative concepts with artistic precision and efficiency.</td>
 </tr>
+<tr>
+<td><img src="assets/images/NodeTool.png" width="200" alt="NodeTool"></td>
+<td><a href="https://nodetool.ai/">NodeTool</a></td>
+<td>NodeTool is an open-source, agent-first creative workspace for macOS, Windows and Linux. Its node workflows and chat agent use MiniMax Hailuo for text-to-video and image-to-video, image-01 for images, Speech 2.6 for voiceovers, Music 2.6 for songs, and MiniMax M-series models for chat.</td>
+</tr>
 </table>
 
 # Education
